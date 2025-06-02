@@ -29,9 +29,6 @@ Bu uygulama, kullanıcıların güvenli şekilde mesajlaşmasını sağlayan bir
 - **Profil Yönetimi:**  
   Kullanıcı bilgilerini görüntüleme ve güncelleme imkanı.
 
-- **Çöp Kutusu:**  
-  Silinen mesajların geri alınabilmesi için saklanması.
-
 ---
 
 ## 🛠 Kullanılan Teknolojiler
