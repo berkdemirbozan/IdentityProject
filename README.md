@@ -1,4 +1,4 @@
-# 🚀 Güvenli Mesajlaşma Uygulamam Yayında: ASP.NET Core 8.0 & Identity ile Gerçekleştirildi!
+# 🚀 Güvenli Mesajlaşma Uygulaması
 
 Bu proje, *Murat Yücedağ* hocamızın rehberliğinde ve *M&Y Yazılım Eğitim Akademi Danışmanlık* iş birliğiyle hazırlanmıştır.  
 "*ASP.NET Core 8.0 ve Identity ile Mail Uygulaması*" projesi başarıyla tamamlanmıştır. 🎉
