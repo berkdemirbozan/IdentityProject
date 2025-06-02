@@ -72,4 +72,4 @@ Bu proje ile;
 ---
 
 ## 🤳 Görseller
-
+![Image](https://github.com/user-attachments/assets/12622c53-e12b-4262-88cf-d7a6ee86e1cd)
