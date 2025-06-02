@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace IdentityProject.Controllers
 {
-    public class DefaultController : Controller
+    public class DefaultController : Controller 
     {
         private readonly UserManager<AppUser> _userManager;
         private readonly MailContext _context;
