@@ -75,3 +75,4 @@ Bu proje ile;
 ![Image](https://github.com/user-attachments/assets/12622c53-e12b-4262-88cf-d7a6ee86e1cd)
 ![Image](https://github.com/user-attachments/assets/33c6de97-80fa-4e8c-bcdc-5efce4308f68)
 ![Image](https://github.com/user-attachments/assets/728ce100-ce22-4b44-96bb-329497b61048)
+![Image](https://github.com/user-attachments/assets/cc8b332c-9487-4367-be59-a397bf08e951)
